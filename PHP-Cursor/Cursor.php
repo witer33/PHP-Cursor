@@ -18,10 +18,6 @@ class Cursor {
         echo "\033[".$n."C";
     }
 
-    public static function clear() {
-        echo "\033[2J";
-    }
-
     public static function clearline() {
         echo "\033[K";
     }
