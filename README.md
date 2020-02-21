@@ -1,5 +1,7 @@
 # PHP-Cursor
 A simple lib to control the Linux shell cursor!
+# Installation
+<code>include "Cursor.php";</code>
 # Functions
 <i>up(n = 1)</i>
 Move the cursor up n lines
